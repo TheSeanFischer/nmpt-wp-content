@@ -1,0 +1,1 @@
+[Aug 22, 2016 14:20:42 0-error] <span class="pb_label pb_label">Important</span> <b>Set an ImportBuddy password on the <a href="http://local.newmotiontherapy.dev/wp-admin/admin.php?page=pb_backupbuddy_settings">Settings</a> page before attempting to Migrate to a new server.</b> Error Code: 
